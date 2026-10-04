@@ -15,5 +15,15 @@ $Note = 16;
 echo "note = $note<br>";
 echo "Note = $Note<br>";
 
+echo '<br><br><br><br>';
 
 ?>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="index.php"><?= "Main page"?></a>
+
+</body>
+</html>
