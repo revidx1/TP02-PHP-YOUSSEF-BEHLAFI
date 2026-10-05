@@ -22,3 +22,6 @@ else{
     echo "Note invalide";
 }
 ?>
+
+<br><br><br><br>
+    <a href="index.php"><?= "Main page"?></a>
