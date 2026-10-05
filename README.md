@@ -8,3 +8,6 @@ TP 02 PHP — Programmation Web 2 — 2026/2027
 - Et non valides :
     $a!, $1a.
 
+# Exercice 4 :
+- La fonction 'echo' essaie toujours de covertir les valeurs en chaîne pour les afficher. 'echo' convertit un booleen true, il affiche 1. mais quand il convetit false, il le transforme en une chaîne vide.
+- et var_dump() est un outil de debogage. il ne convertit pas la valeur il affiche le type reel de la donnee et son conten u exact ce pourquoi var_dump(false) affiche explicitement bool(false).
