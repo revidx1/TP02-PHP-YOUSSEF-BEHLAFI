@@ -11,3 +11,19 @@ TP 02 PHP — Programmation Web 2 — 2026/2027
 # Exercice 4 :
 - La fonction 'echo' essaie toujours de covertir les valeurs en chaîne pour les afficher. 'echo' convertit un booleen true, il affiche 1. mais quand il convetit false, il le transforme en une chaîne vide.
 - et var_dump() est un outil de debogage. il ne convertit pas la valeur il affiche le type reel de la donnee et son conten u exact ce pourquoi var_dump(false) affiche explicitement bool(false).
+
+# Exercice 5 :
+
+-1 : Note invalide
+
+9 : Non validé
+
+10 : Passable
+
+12 : Assez bien
+
+14 : Bien
+
+16 : Très bien
+
+21 : Note invalide
